@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_peliculas">Films</string>
+    <string name="title_series">Series</string>
+    <string name="title_favoritos">Favourites</string>
+
+
+    <string name="title_peliculas_Watch">Hello, what do you want to watch?</string>
+    <string name="title_Favourites">Your favourites</string>
+    <string name="title_BUSQUEDAS">SEARCH</string>
+    <string name="title_RECOMENDED">TRENDING</string>
+    <string name="title_UPCOMING">UPCOMING (Spain)</string>
+    <!--<string name="title_POPULAR">POPULAR (Spain)</string>-->
+    <string name="title_TOP">TOP RATED</string>
+
+    <string name="title_SeeAll">See all</string>
+
+
+    <string name="whatch_now">WATCH NOW</string>
+
+    <string name="studio">Studio</string>
+    <string name="Genre">Genre</string>
+    <string name="Release">Release</string>
+
+
+</resources>

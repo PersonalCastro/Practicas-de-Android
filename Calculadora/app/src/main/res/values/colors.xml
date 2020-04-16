@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimary">#DCE7E7</color> <!-- Color de la Barra inicial -->
+    <color name="colorPrimaryDark">#DCE7E7</color> <!-- Color de la parte alta del telefono -->
+
+    <color name="white">#FAFBFE</color> <!-- Colores de fondo, letras resaltadas (blanco) -->
+    <color name="darkgray">#606060</color> <!-- Color para el texto -->
+    <color name="darkgray_menu2">#4E4E4E</color>
+    <color name="ContractColor">#FC6E51</color> <!-- Color de resalte -->
+
+    <color name="darkResaltsMenu">#80F1F3F3</color>
+
+
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5CA1D4</color>
+    <color name="colorPrimaryDark">#283546</color>
+    <color name="colorAccent">#d4905c</color>
+    <color name="colorWite">#EEEEEE</color>
+    <color name="colorGrey">#AAAAAA</color>
+    <color name="colorWite_trasparente">#80EEEEEE</color>
+    <color name="colorRatingBar">#FDD501</color>
+    <color name="colorRatingBar0_5">#80FDD501</color>
+    <color name="colorPrimary0_75">#BF5CA1D4</color>
+
+
+</resources>

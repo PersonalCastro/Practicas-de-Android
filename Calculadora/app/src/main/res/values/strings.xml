@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">My Application Calculator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+
+
+    <!-- Menu -->
+    <string name="action_historical"></string>
+    <string name="Item_menu1">Estandar</string>
+    <string name="Item_menu2">Cientifica</string>
+    <string name="Item_menu3">Hipoteca</string>
+    <string name="Item_menu4">Moneda</string>
+    <string name="Item_menu5">Longitud</string>
+    <string name="Item_menu6">Area</string>
+    <string name="Item_menu7">Volumen</string>
+    <string name="Item_menu8">Temperatura</string>
+    <string name="Item_menu9">Velocidad</string>
+    <string name="Item_menu10">Tiempo</string>
+    <string name="Item_menu11">Peso</string>
+
+
+
+    <!-- Calculadora Estandar -->
+    <string name="Button_0">0</string>
+    <string name="Button_1">1</string>
+    <string name="Button_2">2</string>
+    <string name="Button_3">3</string>
+    <string name="Button_4">4</string>
+    <string name="Button_5">5</string>
+    <string name="Button_6">6</string>
+    <string name="Button_7">7</string>
+    <string name="Button_8">8</string>
+    <string name="Button_9">9</string>
+
+    <string name="Button_Ac">AC</string>
+    <string name="Button_BackSpace">⌫</string>
+    <string name="Button_resta">-</string>
+    <string name="Button_suma">+</string>
+    <string name="Button_multiplicar">×</string>
+    <string name="Button_dividir">÷</string>
+    <string name="Button_decimal">.</string>
+    <string name="Button_igual">=</string>
+    <string name="Button_porcentaje">%</string>
+
+
+
+
+</resources>

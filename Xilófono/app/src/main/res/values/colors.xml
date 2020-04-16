@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="C_Do">#FC4645</color>
+    <color name="C_Re">#FC9D43</color>
+    <color name="C_Mi">#FEFE50</color>
+    <color name="C_Fa">#B5DA4F</color>
+    <color name="C_Sol">#84CE83</color>
+    <color name="C_La">#C0E2FD</color>
+    <color name="C_Si">#597FE2</color>
+    <color name="C_barrote">#855638</color>
+
+
+
+
+
+</resources>
